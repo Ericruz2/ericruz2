@@ -1,16 +1,18 @@
-## Hi there 👋
+✨ ¡Hola! Soy Erika Belén Cruz Cruz 
 
-<!--
-**Ericruz2/ericruz2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏽‍💻Científica de Datos Junior | Python • SQL • Machine Learning • Visualización de Datos
 
-Here are some ideas to get you started:
+Soy Científica de Datos Junior con formación en Administración Estratégica y experiencia en análisis financiero, optimización de procesos y atención al cliente. Me especializo en transformar datos en decisiones estratégicas mediante modelos predictivos, visualización efectiva y storytelling técnico.
+Actualmente finalicé el bootcamp de TripleTen, donde desarrollé proyectos aplicando Python, SQL, Pandas, NumPy y Scikit-learn, enfocados en segmentación de clientes, análisis financiero y clasificación de riesgo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Proyectos destacados
+- Comercio-electrónico Store 1: Segmentación de clientes en e-commerce — Python, Pandas, Seaborn
+
+🛠️ Tecnologías
+Python · SQL · Pandas · NumPy · Scikit-learn · Seaborn · Matplotlib · Plotly · Power BI · Tableau
+
+📈 Actualmente aprendiendo
+LightGBM · Keras · Visualización avanzada · Optimización de pipelines · Storytelling técnico
+
+🤝 Conectemos
+📬 Puedes escribirme a través de LinkedIn o explorar mis proyectos en GitHub
