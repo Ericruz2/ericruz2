@@ -1,6 +1,9 @@
-![https://github.com/Ericruz2](https://avatars.githubusercontent.com/u/your_user_id_here)  
+<p align="center">
+  <img src="./banner_erika.png" alt="Banner de Erika Belén Cruz Cruz" width="80%">
+</p>
+
 # ¡Hola! Soy Erika Belén Cruz Cruz 👩🏽‍💻  
-### Científica de Datos Junior | Python • SQL • Machine Learning • Visualización de Datos
+Científica de Datos Junior | Python • SQL • Machine Learning • Visualización de Datos
 
 Soy Científica de Datos Junior con formación en Administración Estratégica y experiencia en análisis financiero, optimización de procesos y atención al cliente. Me especializo en transformar datos en decisiones estratégicas mediante modelos predictivos, visualización efectiva y storytelling técnico.
 
