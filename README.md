@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./banner_erika.png" alt="Banner de Erika Belén Cruz Cruz" width="80%">
-</p>
-
 # ¡Hola! Soy Erika Belén Cruz Cruz 👩🏽‍💻  
 Científica de Datos Junior | Python • SQL • Machine Learning • Visualización de Datos
 
