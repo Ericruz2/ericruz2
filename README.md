@@ -14,7 +14,7 @@ Finalicé el bootcamp de TripleTen, donde desarrollé proyectos aplicando Python
 - **Comercio-electrónico Store 1**  
   Segmentación de clientes en e-commerce  
   *Herramientas:* Python, Pandas, Seaborn  
-  🔗 [Ver proyecto](https://github.com/Ericruz2/Comercio-electr-nico-Store-1)
+  🔗 [Ver proyectos](https://github.com/Ericruz2/Proyectos-Tripleten.git)
 
 ---
 
