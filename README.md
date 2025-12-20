@@ -1,7 +1,7 @@
 ![Erika Belen Cruz Cruz](./IMG_2865.png)
 
 # 👋 ¡Hola! Mi nombre es Erika Belen Cruz Cruz  
-### Científica de Datos Junior | Python • SQL • Machine Learning • Visualización de Datos
+### Científica de Datos | Python • SQL • Machine Learning • Visualización de Datos
 
 Soy Científica de Datos Junior con formación en Administración Estratégica y experiencia en análisis financiero, optimización de procesos y atención al cliente. Me especializo en transformar datos en decisiones estratégicas mediante modelos predictivos, visualización efectiva y storytelling técnico.
 
