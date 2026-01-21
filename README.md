@@ -3,9 +3,20 @@
 # 👋 ¡Hola! Mi nombre es Erika Belen Cruz Cruz  
 ### Científica de Datos | Python • SQL • Machine Learning • Visualización de Datos
 
-Soy Científica de Datos con formación en Administración Estratégica y experiencia en análisis financiero, optimización de procesos y atención al cliente. Me especializo en transformar datos en decisiones estratégicas mediante modelos predictivos, visualización efectiva y storytelling técnico.
+Soy Científica de Datos y Licenciada en Administración Estratégica, con experiencia en análisis de datos y modelado predictivo orientado a la toma de decisiones de negocio.
 
-Finalicé el bootcamp de TripleTen, donde desarrollé proyectos aplicando Python, SQL, Pandas, NumPy y Scikit-learn, enfocados en segmentación de clientes, análisis financiero y clasificación de riesgo.
+🔹 ¿Qué hago?
+• Análisis exploratorio, limpieza y auditoría de datos 
+• Modelos de clasificación y clustering 
+• Validación de modelos y optimización 
+• Visualización de insights para audiencias no técnicas 
+
+🔹 Tecnologías:
+Python, Pandas, NumPy, Scikit-learn, LightGBM, SQL (básico),
+Matplotlib, Seaborn, Plotly, Git/GitHub
+
+🔹 Fortalezas:
+Pensamiento analítico · Organización · Gestión del tiempo · Comunicación técnica clara.
 
 ---
 
