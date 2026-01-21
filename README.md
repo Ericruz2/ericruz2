@@ -8,8 +8,11 @@ Soy Científica de Datos y Licenciada en Administración Estratégica, con exper
 🔹 ¿Qué hago?
 
 • Análisis exploratorio, limpieza y auditoría de datos 
+
 • Modelos de clasificación y clustering 
+
 • Validación de modelos y optimización 
+
 • Visualización de insights para audiencias no técnicas 
 
 🔹 Tecnologías:
@@ -19,7 +22,10 @@ Matplotlib, Seaborn, Plotly, Git/GitHub
 
 🔹 Fortalezas:
 
-Pensamiento analítico · Organización · Gestión del tiempo · Comunicación técnica clara.
+· Pensamiento analítico
+· Organización 
+· Gestión del tiempo
+· Comunicación técnica clara.
 
 ---
 
