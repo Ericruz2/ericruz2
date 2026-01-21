@@ -6,16 +6,19 @@
 Soy Científica de Datos y Licenciada en Administración Estratégica, con experiencia en análisis de datos y modelado predictivo orientado a la toma de decisiones de negocio.
 
 🔹 ¿Qué hago?
+
 • Análisis exploratorio, limpieza y auditoría de datos 
 • Modelos de clasificación y clustering 
 • Validación de modelos y optimización 
 • Visualización de insights para audiencias no técnicas 
 
 🔹 Tecnologías:
+
 Python, Pandas, NumPy, Scikit-learn, LightGBM, SQL (básico),
 Matplotlib, Seaborn, Plotly, Git/GitHub
 
 🔹 Fortalezas:
+
 Pensamiento analítico · Organización · Gestión del tiempo · Comunicación técnica clara.
 
 ---
