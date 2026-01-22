@@ -1,5 +1,3 @@
-![Erika Belen Cruz Cruz](./IMG_2865.png)
-
 # 👋 ¡Hola! Mi nombre es Erika Belen Cruz Cruz  
 ### Científica de Datos | Python • SQL • Machine Learning • Visualización de Datos
 
